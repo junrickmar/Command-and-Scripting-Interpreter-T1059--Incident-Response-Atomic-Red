@@ -14,4 +14,4 @@ In this lab project, I simulated a basic script execution attack by running an A
 
 ## 📄 Read the Full Documentation of this Lab Here
 
-[![View Doc](https://docs.google.com/document/d/1WH6AjiFv9cjapxvi4Pab3rix_m7jloyh9HodT7M-JD8/edit?tab=t.u7qruuov4l97)
+[![View Doc](https://docs.google.com/document/d/1WH6AjiFv9cjapxvi4Pab3rix_m7jloyh9HodT7M-JD8/edit?usp=sharing)
